@@ -10,8 +10,8 @@ public class Ejercicio5 {
 		//take the runtime of java application
 				Runtime builder = Runtime.getRuntime();
 				//execute commands line
-				String comandoLinux="ls";
-				String comandoWindows = "CMD /C DIR";
+				String comandoLinux="lss";
+				String comandoWindows = "CMD /C DIRR";
 				String lineas[];
 				
 				try {
